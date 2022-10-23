@@ -1,6 +1,6 @@
 print('-=-=- TABUADA -=-=-')
 
-num = int(input('Digite um npumero para ver sua tabuada: '))
+num = int(input('Digite um número para ver sua tabuada: '))
 
 print('----------------------')
 print(f'{num} x 1 =   {num}')
